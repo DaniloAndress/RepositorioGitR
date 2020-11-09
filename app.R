@@ -6,6 +6,7 @@
 #
 #    http://shiny.rstudio.com/
 #
+# Revisar la configuración del sistema, tiene un error
 
 library(shiny)
 
